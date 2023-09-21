@@ -1,6 +1,6 @@
 # E-Library Project
 
-Welcome to the E-Library project, a collaborative effort by UBi, Joseph, Frankelly, and Ayan Nicholas. This project represents our journey into backend engineering, where we've created a user-friendly E-Library application to share, manage, and explore various digital documents.
+Welcome to the E-Library project, a collaborative effort by UBi Joseph, Ozonwu Frankelly, and Ayan Nicholas. This project represents our journey into backend engineering, where we've created a user-friendly E-Library application to share, manage, and explore various digital documents.
 
 ## Table of Contents
 
@@ -18,8 +18,8 @@ The E-Library project is designed to facilitate the sharing and organization of 
 
 ## Contributors
 
-- **Ubi, Joseph** - *Backend Developer*
-- **Frankelly, Ozonwo** - *Database Specialist*
+- **Ubi Joseph** - *Backend Developer*
+- **Ozonwu Frankelly** - *Database Specialist*
 - **Ayan Nicholas** - *Frontend Developer*
 
 ## Technologies Used
